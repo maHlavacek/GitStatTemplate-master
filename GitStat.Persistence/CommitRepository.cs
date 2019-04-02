@@ -23,10 +23,10 @@ namespace GitStat.Persistence
 
         public IEnumerable<Commit> GetAllCommitsFromLastWeeks(int weeks)
         {
-            return _dbContext.Commits.Where(w => w.Date >= _dbContext
-                    .Commits.Max(m => m.Date).AddDays(-weeks*7))
+            return _dbContext.Commits.Where(w => w.Date >= DateTime.Parse("29/03/2019").AddDays(-weeks * 7))
                     .OrderByDescending(o => o.Date)
-                    .Include(d => d.Developer);
+                    .Include(d => d.Developer)
+                    .OrderBy(s => s.Date);
         }
 
         public Commit GetCommitWithId(int id)

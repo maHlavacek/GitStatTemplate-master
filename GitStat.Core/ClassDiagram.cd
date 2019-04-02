@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GitStat.Core.Entities.Developer">
+    <Position X="3.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Developer.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Commits" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="GitStat.Core.Entities.Commit">
+    <Position X="6.5" Y="1.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>ACABAAAIAAAAAAAAAAAAAAQAAIAAAAABAAAAIAIAAAA=</HashCode>
+      <FileName>Entities\Commit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

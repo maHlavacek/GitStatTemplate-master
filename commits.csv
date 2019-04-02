@@ -1,0 +1,351 @@
+﻿gkoe;15.03.2019 00:00:00;changes from seminar;fda1ea3;53;2171;124
+gkoe;05.03.2019 00:00:00;Refactoring Actor;3e00c74;131;498;1791
+gkoe;04.03.2019 00:00:00;actor refactoring;c96edfc;44;1043;340
+Richard Stock;03.03.2019 00:00:00;Merge branch 'UdpLoggerClient' into 'master';a6bfd4f;0;0;0
+Richard Stock;03.03.2019 00:00:00;Changed the ReadMe of SystemService;3900ac7;2;12;0
+Richard Stock;03.03.2019 00:00:00;Added Filter to UdpLoggerClient;28ece45;6;84;6
+Richard Stock;01.03.2019 00:00:00;Merge branch 'SysSer' into 'master';05d5f0f;0;0;0
+Richard Stock;01.03.2019 00:00:00;Little Changes for UdpBroadcast;e58f8f7;2;7;2
+Richard Stock;01.03.2019 00:00:00;RTC working now also made some fixes;f53b0fc;3;22;11
+Richard Stock;26.02.2019 00:00:00;Changed UdpBroadcast that only one Logger per Port;a8fc07e;5;72;30
+gkoe;25.02.2019 00:00:00;Bugs;d01cae8;362;85800;16
+Richard Stock;25.02.2019 00:00:00;SystemService.h now working with cpp;730087b;0;0;0
+Peter Sigmund;24.02.2019 00:00:00;Merge branch 'Irda' into 'master';c6d056e;0;0;0
+PeterSigmund12;24.02.2019 00:00:00;IrdaWPF COM und FilePath sind ├╝ber die GUI einstellbar;e29dd29;2;16;2
+Richard Stock;20.02.2019 00:00:00;Merge branch 'SystemService' into 'master';af747e9;0;0;0
+Richard Stock;20.02.2019 00:00:00;Merge branch 'UDPBroadCast' into 'master';d78399f;0;0;0
+PeterSigmund12;20.02.2019 00:00:00;Read IRCode from ThingConfig and send IRCode;7b993b4;0;0;0
+PeterSigmund12;20.02.2019 00:00:00;Read IRCode from ThingConfig and send IRCode;e68e8f1;0;0;0
+PeterSigmund12;20.02.2019 00:00:00;Read IRCode from ThingConfig (Stack error);d827b35;3;88;55
+Peter Sigmund;20.02.2019 00:00:00;Merge branch 'MHZ' into 'master';9324db3;0;0;0
+PeterSigmund12;20.02.2019 00:00:00;Remove Mhz14a & Mhz19 Library;5184ed2;25;0;760
+PeterSigmund12;18.02.2019 00:00:00;Mhz14 & Mhz19 Library mit Checksumme zusammengelegt;e490fbe;12;402;0
+Richard Stock;17.02.2019 00:00:00;Added a ReadMe to SystemService and changed little things.;0020c09;3;89;6
+Richard Stock;16.02.2019 00:00:00;Found a bug in LED and also make SystemService working.;b59a91c;6;111;41
+gkoe;15.02.2019 00:00:00;Kleinigkeiten;f45a048;13;372;0
+Richard Stock;15.02.2019 00:00:00;Little changes in Thing(actor and sensor names) and UdpBroadCast(Logger start).;fbcc86a;3;17;12
+Richard Stock;14.02.2019 00:00:00;Changed the State respons to JSON;4906a5e;0;0;0
+Richard Stock;14.02.2019 00:00:00;Last Changes in UDPBroadCast;711aae8;3;45;15
+Richard Stock;13.02.2019 00:00:00;Started to implement SystemService;da332a4;10;232;0
+Richard Stock;13.02.2019 00:00:00;Added a ReadMe to UDPBroadcast;7edc4a3;0;0;0
+Richard Stock;13.02.2019 00:00:00;Make little changes in Udp BroadCast;45c7c8d;4;34;16
+Richard Stock;13.02.2019 00:00:00;FactoryReset and Reset working in HttpServer;b8433cb;4;32;11
+Richard Stock;13.02.2019 00:00:00;Udp listener with answer and little changes in Thing;2a8b63f;11;270;4
+Richard Stock;12.02.2019 00:00:00;Read UdpMessage test;908e106;9;238;0
+Richard Stock;11.02.2019 00:00:00;Merge branch 'LoggerCount' into 'master';5345ed1;0;0;0
+Richard Stock;11.02.2019 00:00:00;Logger count are now in each Libary.;79c22d8;15;26;23
+Richard Stock;11.02.2019 00:00:00;Merge confloct;67c74cd;0;0;0
+Richard Stock;10.02.2019 00:00:00;Added a doc for AMG88xx;276db81;263;246;0
+Richard Stock;10.02.2019 00:00:00;Overworked Beeper also fixed the bug in Actor;ae15634;6;29;14
+gkoe;09.02.2019 00:00:00;arduino.h ==> Arduino.h;d2e9fcc;13;13;13
+gkoe;09.02.2019 00:00:00;platformio.ini;af53fe5;79;207;609
+Richard Stock;08.02.2019 00:00:00;MqttClient working without error;27784a5;6;30;17
+Richard Stock;08.02.2019 00:00:00;Added Id to the UdpLogger Programm;f3d7c41;6;16;3
+Richard Stock;08.02.2019 00:00:00;Added id for UdpLogger and MqttLogger;43add78;4;6;10
+Richard Stock;08.02.2019 00:00:00;Little Style Changes in Logger also tidied up the esp32 libaries.;2f07e49;120;3;4803
+Richard Stock;08.02.2019 00:00:00;SerialLogger working with Logger Number.;f4bac96;11;13;11
+Richard Stock;07.02.2019 00:00:00;Tested the MAX.. Programm with Logger;6a96d6d;5;22;19
+Richard Stock;05.02.2019 00:00:00;Testing Sensor and MqttClient;48e3fd4;3;10;9
+Richard Stock;05.02.2019 00:00:00;Tested HTTPServer;6a9305c;3;14;13
+Richard Stock;05.02.2019 00:00:00;Display working now also started to test the apps;d5ecca7;15;240;19
+Richard Stock;05.02.2019 00:00:00;TSL2561 working now with Logger;22c150b;4;13;11
+Richard Stock;05.02.2019 00:00:00;Mhz19 and Pir working now with Logger;a9d2b37;3;17;6
+Richard Stock;05.02.2019 00:00:00;MAX and MHZ14 working now with Logger;53e9d0c;2;13;8
+Richard Stock;04.02.2019 00:00:00;Led working now with Logger;607e0d7;2;27;28
+Richard Stock;04.02.2019 00:00:00;Beeper and Flower working now with Logger;18e5bf6;2;19;13
+Richard Stock;04.02.2019 00:00:00;UdpLogger working now with Logger;c192a49;0;0;0
+Richard Stock;04.02.2019 00:00:00;Thing and ThingTime working now with Logger;5ccf280;2;30;24
+Richard Stock;04.02.2019 00:00:00;Sensor and StateMachine working now with Logger;ff716c0;3;20;13
+gkoe;04.02.2019 00:00:00;Merge branch 'master' of gitlab.com:gkoe/LeoIot;68ad418;0;0;0
+gkoe;04.02.2019 00:00:00;SimplePir RgbLed;13590d9;32;922;148
+Richard Stock;04.02.2019 00:00:00;OtaUpdate now woking with Logger;5df6fae;2;12;10
+Richard Stock;04.02.2019 00:00:00;Added a ReadMe to MAX4466 and found some useless methods.;6af0d86;3;59;2
+Richard Stock;04.02.2019 00:00:00;MqttClient working now with Logger.;eaded04;3;45;33
+Richard Stock;03.02.2019 00:00:00;InternLed and IrdaModule working now with Logger;c131c1f;2;58;62
+Richard Stock;03.02.2019 00:00:00;HttpServer working now with Logger;4eab419;0;0;0
+Richard Stock;02.02.2019 00:00:00;Actor working now with Logger;41a92ad;0;0;0
+Richard Stock;01.02.2019 00:00:00;Merge branch 'LED' into 'master';2d22aa6;0;0;0
+Richard Stock;01.02.2019 00:00:00;Merge branch 'master' into 'LED';72bbc4d;0;0;0
+Richard Stock;01.02.2019 00:00:00;Last Changes from Tdot.;308c3f8;3;18;18
+gkoe;26.01.2019 00:00:00;tadeot hacks;c17be89;0;0;0
+Richard Stock;24.01.2019 00:00:00;Changed the calibration of MAX4466;8df2273;3;7;9
+Richard Stock;24.01.2019 00:00:00;Added a new APP also found a bug.;ec454b7;7;265;0
+Richard Stock;23.01.2019 00:00:00;Added a new Sensor MAX4466;d8398e8;13;295;0
+Richard Stock;23.01.2019 00:00:00;Changed the prototype;a70c074;5;27;7
+Peter Sigmund;22.01.2019 00:00:00;Merge branch 'PIR' into 'master';ec88f5d;0;0;0
+PeterSigmund12;22.01.2019 00:00:00;Edit Pir;517003b;0;0;0
+PeterSigmund12;22.01.2019 00:00:00;Edit Pir;80ce3d0;3;7;2
+PeterSigmund12;22.01.2019 00:00:00;Edit Things;b3090ad;2;7;7
+PeterSigmund12;21.01.2019 00:00:00;Edit Prototyp for Tadeot;9ec9bb3;0;0;0
+Peter Sigmund;21.01.2019 00:00:00;Merge branch 'BeamerStrom' into 'master';7724e18;0;0;0
+PeterSigmund12;21.01.2019 00:00:00;Add ClassroomPrototype;90c2036;7;260;0
+gkoe;20.01.2019 00:00:00;seminarthing;eba3c92;27;405;33
+Richard Stock;13.01.2019 00:00:00;Merge branch 'master' of https://gitlab.com/gkoe/LeoIot;d7b4611;0;0;0
+Richard Stock;13.01.2019 00:00:00;Added new Class for my prototype;f64b426;8;269;0
+Peter Sigmund;13.01.2019 00:00:00;Merge branch 'BeamerStrom' into 'master';193512c;0;0;0
+PeterSigmund12;13.01.2019 00:00:00;Add ClassroomBeamerStrom and edit Hlw8012 Library (Sensor);811af62;10;256;4
+gkoe;11.01.2019 00:00:00;rgbled created beeper refactoring;99d414e;21;521;23
+Richard Stock;07.01.2019 00:00:00;Merge branch 'Ota' into 'master';9644d7b;0;0;0
+Richard Stock;07.01.2019 00:00:00;Merge branch 'master' into 'Ota';4ec918a;0;0;0
+Peter Sigmund;06.01.2019 00:00:00;Merge branch 'PIR' into 'master';8b64722;0;0;0
+PeterSigmund12;06.01.2019 00:00:00;Updated PIR Readme;c2dd9fc;0;0;0
+Richard Stock;04.01.2019 00:00:00;Merge branch 'LED' into 'master';09d6e75;0;0;0
+Richard Stock;04.01.2019 00:00:00;Fixed Merge conflict.;81c65fe;0;0;0
+Richard Stock;04.01.2019 00:00:00;ReadMe is now updated.;d4f73a6;2;4;0
+Richard Stock;04.01.2019 00:00:00;ReadMe is now updated.;1292b37;2;4;0
+Richard Stock;04.01.2019 00:00:00;Added a new method to set the light of strand;d161604;3;14;17
+Richard Stock;04.01.2019 00:00:00;Scanner working now.;e011aea;4;6;6
+Richard Stock;04.01.2019 00:00:00;Changed it to esp32 don't know if it works.;01c37b8;9;416;0
+Richard Stock;04.01.2019 00:00:00;Merge branch 'BLESearch' into 'master';6073045;0;0;0
+Richard Stock;04.01.2019 00:00:00;BLESearch with display.;5225eab;2;13;18
+Richard Stock;04.01.2019 00:00:00;Merge branch 'UdpLogger' into 'master';1f7d4ad;0;0;0
+Richard Stock;04.01.2019 00:00:00;Start File has been changed also Views have now a Directory.;8dc5828;5;7;3
+Richard Stock;04.01.2019 00:00:00;Statusbar working now.;1fdc39d;6;27;8
+Richard Stock;03.01.2019 00:00:00;Merge branch 'SoundSensor' into 'master';d635c12;0;0;0
+Richard Stock;03.01.2019 00:00:00;SoundSensor working now without any problem.;6d1281f;5;31;35
+Richard Stock;02.01.2019 00:00:00;Merge branch 'Automat' into 'master';3ac4668;0;0;0
+Richard Stock;02.01.2019 00:00:00;Little Changes in StateMachine.;3636057;0;0;0
+Richard Stock;02.01.2019 00:00:00;Merge branch 'I2C' into 'master';a0b49b0;0;0;0
+Richard Stock;02.01.2019 00:00:00;I2C working now fine!;75e461f;4;8;4
+gkoe;30.12.2018 00:00:00;Strommesser HLW8012;9552b6e;98;4734;0
+Richard Stock;21.12.2018 00:00:00;Merge branch 'master' of https://gitlab.com/gkoe/LeoIot;00f33ca;0;0;0
+Richard Stock;21.12.2018 00:00:00;Updated the some ReadMe.;a2efe32;8;30;31
+PeterSigmund12;19.12.2018 00:00:00;Merge PIR;57fa564;0;0;0
+PeterSigmund12;19.12.2018 00:00:00;AdShort changes;a3af217;3;13;7
+PeterSigmund12;19.12.2018 00:00:00;Add ┬û┬ûacclimatizationTime;2141aff;2;45;40
+gkoe;18.12.2018 00:00:00;datasheets pir and thermalsensor;eca57e8;2;0;0
+gkoe;18.12.2018 00:00:00;cleanprojectdirectory and thermacamera;76eadd8;307;81179;2867
+PeterSigmund12;17.12.2018 00:00:00;Changes in PIR Library;5004599;260;6064;675
+Peter Sigmund;16.12.2018 00:00:00;Merge branch 'PIR' into 'master';d023248;0;0;0
+PeterSigmund12;16.12.2018 00:00:00;Finish Automat for PIR;60fb3e1;5;157;82
+Richard Stock;14.12.2018 00:00:00;Changed the TSL and fixed the bug 1C2 #33;7a5ebd8;4;12;7
+Richard Stock;14.12.2018 00:00:00;Added to much ReadMe in the last commit.;e9ed5a5;2;0;0
+Richard Stock;14.12.2018 00:00:00;Changed some ReadMe and also Renamed some folder.;21cc104;141;6;616
+gkoe;13.12.2018 00:00:00;Kleine Optimierungen;74e6a05;0;0;0
+gkoe;13.12.2018 00:00:00;Kleine Optimierungen;994b237;16;232;12
+Richard Stock;13.12.2018 00:00:00;Added new Method for KY;969f83c;3;42;7
+Richard Stock;12.12.2018 00:00:00;Merge branch 'BLE' into 'master';39ac129;0;0;0
+Richard Stock;12.12.2018 00:00:00;Merge branch '2Core' into 'master';99a9708;0;0;0
+Richard Stock;12.12.2018 00:00:00;Merge because of VS.;c3d1981;0;0;0
+Richard Stock;12.12.2018 00:00:00;Changed the name of Automat also found a bug;9032e6d;15;18;12
+gkoe;12.12.2018 00:00:00;Pressure sensors added;7081967;78;3484;0
+Richard Stock;11.12.2018 00:00:00;Merge branch 'UdpLoggerClient' into 'master';1c37747;0;0;0
+Richard Stock;10.12.2018 00:00:00;Last Changes in Light and DB;35b6550;3;3;3
+Richard Stock;10.12.2018 00:00:00;Added rainbow to LED;9a68b8f;4;6;9
+Richard Stock;10.12.2018 00:00:00;Changed the Automat with the Prof.;3482ad8;3;38;36
+Richard Stock;10.12.2018 00:00:00;Refreshed the Test of LST and KY #34 now working there should be no :bug: any longer.;c3aa1b7;4;4;8
+Richard Stock;10.12.2018 00:00:00;Automat work now also the TLS test :bulb:;5eb5fce;4;40;64
+Richard Stock;09.12.2018 00:00:00;Make big Changes in Automat and in Sensors :hammer:;24cc483;17;232;28
+Richard Stock;09.12.2018 00:00:00;Make little Changes :wrench:;af917d5;5;7;4
+Richard Stock;09.12.2018 00:00:00;Datagrid working now.;c6b0120;7;30;45
+Richard Stock;07.12.2018 00:00:00;Added Comments and changed Methods and many more.;0af9a2d;7;79;35
+Richard Stock;06.12.2018 00:00:00;Changed the LightAnDB and found a bug in Automat.;92fb213;5;27;26
+Richard Stock;06.12.2018 00:00:00;Added a new APP for Light and Db;a28e86d;7;237;0
+Richard Stock;06.12.2018 00:00:00;Merge branch 'TSL2561' into 'master';843f4f5;0;0;0
+Richard Stock;06.12.2018 00:00:00;Added ReadMe and changed the ReadMe from KY-037;53c5e5d;2;51;0
+Richard Stock;06.12.2018 00:00:00;Changed sth in Automat TSL working now.;9827564;11;38;164
+PeterSigmund12;05.12.2018 00:00:00;Edit Pir.cpp;0f59d76;4;101;11
+Richard Stock;05.12.2018 00:00:00;Merge branch 'master' into 'TSL2561';ab5b655;0;0;0
+Richard Stock;05.12.2018 00:00:00;Merge branch 'LED' into 'master';2a69668;0;0;0
+Richard Stock;05.12.2018 00:00:00;Added a new Method for LED also added ReadMe #28;28e157c;5;81;7
+Richard Stock;05.12.2018 00:00:00;Merge branch 'KY-037' into 'master';7e8b459;0;0;0
+Richard Stock;05.12.2018 00:00:00;Merge branch 'master' into 'KY-037';6d07056;0;0;0
+Richard Stock;05.12.2018 00:00:00;Added Readme also small changes in Automat;23ba892;4;170;3
+Richard Stock;05.12.2018 00:00:00;Added Automat and changes KY-037;106c945;6;128;47
+Richard Stock;04.12.2018 00:00:00;Merge branch 'Beeper' into 'master';63e0aef;0;0;0
+Richard Stock;04.12.2018 00:00:00;Wrong Text in ReadMe;90fa215;0;0;0
+Richard Stock;04.12.2018 00:00:00;Added ReadMe;10c8153;0;0;0
+Richard Stock;04.12.2018 00:00:00;Merge branch 'UdpLogger' into 'master';c762dc5;0;0;0
+Richard Stock;04.12.2018 00:00:00;Changed the KY.;481a4fa;3;36;10
+PeterSigmund12;04.12.2018 00:00:00;Merge;7da6fb6;0;0;0
+PeterSigmund12;04.12.2018 00:00:00;Add ClassRoomBeamerSwitch;732d740;12;254;6
+Richard Stock;04.12.2018 00:00:00;Sensor have some issues to convert from mv to db .;ba2b41e;4;27;53
+Richard Stock;03.12.2018 00:00:00;LED working now.;ae834bf;7;17;7
+Richard Stock;03.12.2018 00:00:00;Added ScannerLED and changed RainbowLED;8cf2268;6;90;9
+Richard Stock;03.12.2018 00:00:00;Chagned a lot;448301c;7;622;25
+gkoe;03.12.2018 00:00:00;mqttclient getestet;8ed9413;5;49;45
+gkoe;03.12.2018 00:00:00;DisplayLoggerTarget BugFixes;fc90b64;36;2537;34
+Richard Stock;03.12.2018 00:00:00;Some changes;777f2c1;0;0;0
+Richard Stock;02.12.2018 00:00:00;Found a issue in MqttClient also changed some test.;26f90ad;8;235;242
+Richard Stock;01.12.2018 00:00:00;Changed the UdpClient;747c9ce;9;156;92
+Richard Stock;01.12.2018 00:00:00;Merge probolem with .suo;18af44b;0;0;0
+Richard Stock;01.12.2018 00:00:00;Issues;d02458e;0;0;0
+gkoe;01.12.2018 00:00:00;MqttClient review;a5bbef5;25;576;43
+gkoe;01.12.2018 00:00:00;UdpLoggerTarget review;65b7db3;16;71;344
+Richard Stock;30.11.2018 00:00:00;Merge branch 'UdpLogger' into 'master';66ed8d0;0;0;0
+Richard Stock;30.11.2018 00:00:00;Found error problem with _udp.begin();4ab5ac5;4;7;6
+gkoe;30.11.2018 00:00:00;Serial.print => Logger.info() in InternLed und ThingConfig;f345093;11;116;120
+gkoe;30.11.2018 00:00:00;Irda WPF hard coded config angepasst;1d6b4c3;9;52;3
+Richard Stock;29.11.2018 00:00:00;Changed the ReadMe of MqttClient;39763fa;0;0;0
+Richard Stock;29.11.2018 00:00:00;Changed the ReadMe of UdpLoggerTarget;40c0987;0;0;0
+Richard Stock;29.11.2018 00:00:00;Changed UdpLogger like he should;94f5049;8;59;64
+gkoe;29.11.2018 00:00:00;Merge branch 'master' of gitlab.com:gkoe/LeoIot;49233db;0;0;0
+gkoe;29.11.2018 00:00:00;Merge branch 'thingconfig-deletekey';1a57da1;0;0;0
+PeterSigmund12;29.11.2018 00:00:00;Add Files;30a25bc;0;0;0
+gkoe;29.11.2018 00:00:00;ThingConfig deleteKey() und Codeverbesserungen;87227cb;5;41;10
+PeterSigmund12;29.11.2018 00:00:00;Add WPF Program;47a76f6;27;688;263
+PeterSigmund12;29.11.2018 00:00:00;Edit Files;b09d13a;0;0;0
+PeterSigmund12;29.11.2018 00:00:00;Finish Readme;2fbe403;4;10;0
+PeterSigmund12;29.11.2018 00:00:00;Finsih IrdaModule Library;d4a73ba;39;22;43
+Richard Stock;29.11.2018 00:00:00;Added EnAutomat and changed a lot;e623c92;5;139;5
+PeterSigmund12;28.11.2018 00:00:00;Edit IrdaModule.h und IrdaModule.cpp and IrdaModule testapp;0825721;4;166;155
+gkoe;28.11.2018 00:00:00;UdpLoggerTarget Test1;302ba7b;28;475;75
+Peter Sigmund;28.11.2018 00:00:00;Merge branch 'IRDevkit' into 'master';ddd808c;0;0;0
+Peter Sigmund;28.11.2018 00:00:00;Merge branch 'master' into 'IRDevkit';5a466f5;0;0;0
+PeterSigmund12;28.11.2018 00:00:00;Remove IRDevkitWPF;62b89ea;18;0;688
+PeterSigmund12;28.11.2018 00:00:00;Edit Files;f882d73;3;0;0
+Richard Stock;28.11.2018 00:00:00;Computer to Laptop;70c6e7d;0;0;0
+Richard Stock;28.11.2018 00:00:00;Changed to Adafruit libary;931b170;4;193;197
+Richard Stock;27.11.2018 00:00:00;Major changes.;0273154;2;85;9
+Richard Stock;27.11.2018 00:00:00;Little bugs in Classroom;1b16a6a;3;5;8
+Richard Stock;27.11.2018 00:00:00;Little Changes;120c6b4;4;30;39
+Richard Stock;27.11.2018 00:00:00;Merge branch 'Classroom' into 'master';f28af25;0;0;0
+Richard Stock;27.11.2018 00:00:00;Found a bug in HTTPServer also finished classroom.;6f294ba;0;0;0
+Richard Stock;27.11.2018 00:00:00;Init for classroom;10bd4c7;7;262;0
+Richard Stock;26.11.2018 00:00:00;New TSL libary and changed something in TSL2561;358e566;6;723;5
+PeterSigmund12;26.11.2018 00:00:00;Edit IrdaModule;5a525c3;10;24;12
+Richard Stock;26.11.2018 00:00:00;Added Adafruit libary also started to implement TSL;c649971;11;997;0
+Richard Stock;26.11.2018 00:00:00;Changed some in LED.;fb9f22a;3;23;10
+Richard Stock;26.11.2018 00:00:00;Init and added the adafruit.;27ea01c;11;2706;0
+Richard Stock;26.11.2018 00:00:00;#27 Beeper works but Readme is missing.;6ea8d56;9;262;0
+Richard Stock;25.11.2018 00:00:00;First Changes;642326c;9;379;0
+PeterSigmund12;25.11.2018 00:00:00;Finsih first Version of IrdaModuleSend;9408745;13;291;19
+Richard Stock;25.11.2018 00:00:00;Merge branch 'UdpLogger' into 'master';f338dc2;0;0;0
+Richard Stock;25.11.2018 00:00:00;Updated the Readme also added some images;693e533;5;9;4
+Richard Stock;25.11.2018 00:00:00;Changed some styling;6dcb7cd;2;3;3
+Richard Stock;25.11.2018 00:00:00;Fixed a bug and all working now fine.;5691c66;4;22;35
+Richard Stock;24.11.2018 00:00:00;Save now working in Wpf Client;ec96605;7;33;19
+Richard Stock;23.11.2018 00:00:00;Changed UdpLogger and sth in WPF style.;42daad6;8;50;17
+PeterSigmund12;22.11.2018 00:00:00;Add Files;10471b9;4;0;0
+Richard Stock;22.11.2018 00:00:00;Changed the File and changed the UI.;115ad40;7;80;4
+gkoe;21.11.2018 00:00:00;Mhz14a ├╝berarbeitet;8e2cc29;3;61;26
+gkoe;21.11.2018 00:00:00;PIR Dokumentation ├╝berarbeitet;881dfb1;3;10;13
+Richard Stock;19.11.2018 00:00:00;Changed the UI as well you get the path now.;2af6c1d;4;18;0
+Richard Stock;19.11.2018 00:00:00;Added first part of udpclient;8dadf7e;20;586;96
+Richard Stock;17.11.2018 00:00:00;Fixed a bug in MqttClient also a little one in UdpLogger;dff7e18;5;12;13
+Richard Stock;13.11.2018 00:00:00;UdpLogger with ThingConfig;3939421;2;22;4
+Richard Stock;13.11.2018 00:00:00;Fixed a bug in HttpServer;f9faab3;3;4;3
+Richard Stock;13.11.2018 00:00:00;Deleted a Test;be547c0;7;0;200
+Richard Stock;13.11.2018 00:00:00;Fixed Bug in MqttClient and UdpLogger Test;91d4240;16;235;53
+Peter Sigmund;13.11.2018 00:00:00;Merge branch 'PIR' into 'master';7b58834;0;0;0
+Peter Sigmund;13.11.2018 00:00:00;Merge branch 'master' into 'PIR';ef25542;0;0;0
+PeterSigmund12;13.11.2018 00:00:00;Edit PIR-readme -- Add img;eb86e59;0;0;0
+PeterSigmund12;13.11.2018 00:00:00;Edit PIR-readme -- Add img;0ea5543;0;0;0
+PeterSigmund12;13.11.2018 00:00:00;Edit PIR-readme -- Add img;458a20e;11;122;17
+PeterSigmund12;13.11.2018 00:00:00;Finish PIR-readme;f29eade;10;117;17
+PeterSigmund12;13.11.2018 00:00:00;Add files;ea2dfbd;0;0;0
+Richard Stock;12.11.2018 00:00:00;Changed MqttClient and UdpLogger;0ca1fc6;4;31;6
+PeterSigmund12;12.11.2018 00:00:00;Add Show all available Buttons;c76e193;6;9;0
+Richard Stock;12.11.2018 00:00:00;Merge branch 'master' into '2Core';3382fca;0;0;0
+Richard Stock;12.11.2018 00:00:00;Merge branch 'master' into 'BLE';fc71279;0;0;0
+Richard Stock;12.11.2018 00:00:00;Merge branch 'BLE' into 'master';a708945;0;0;0
+Richard Stock;12.11.2018 00:00:00;Merge branch '2Core' into 'master';51c0f94;0;0;0
+Peter Sigmund;12.11.2018 00:00:00;Merge branch 'Mhz14' into 'master';361df52;0;0;0
+PeterSigmund12;12.11.2018 00:00:00;Add Mhz14a.h and Mhz14a.cpp;7e559bb;2;11;0
+Peter Sigmund;12.11.2018 00:00:00;Merge branch 'Mhz14' into 'master';f9a4198;0;0;0
+PeterSigmund12;12.11.2018 00:00:00;Edit readme for Mhz14a Library;07c19b6;0;0;0
+PeterSigmund12;12.11.2018 00:00:00;Add readme for Mhz14a Library;326356c;2;69;0
+PeterSigmund12;12.11.2018 00:00:00;Finish Mhz14a Library with testapp;4eb2f5d;0;0;0
+gkoe;10.11.2018 00:00:00;bugfixing und logger in StandardApp;41de523;6;45;20
+gkoe;10.11.2018 00:00:00;Logger und UdpLoggerTarget ├╝berarbeitet;47820c4;35;864;89
+gkoe;06.11.2018 00:00:00;mhz14 test;0b356de;22;228;0
+Richard Stock;05.11.2018 00:00:00;Merge branch 'Logger' into 'master';c5a70f2;0;0;0
+Richard Stock;05.11.2018 00:00:00;Changed UdpLogger Test;b338e74;0;0;0
+Richard Stock;05.11.2018 00:00:00;Changed Logger;e6f2e88;2;5;3
+Richard Stock;05.11.2018 00:00:00;Changed Logger ReadMe;fa24c56;5;52;49
+PeterSigmund12;05.11.2018 00:00:00;Changes in PirTest;89eff01;0;0;0
+Richard Stock;05.11.2018 00:00:00;Changed the Test;8dc899c;0;0;0
+PeterSigmund12;05.11.2018 00:00:00;Changes in Mhz14Test;001f05a;0;0;0
+PeterSigmund12;05.11.2018 00:00:00;Changed Files;b352a47;2;0;0
+Richard Stock;05.11.2018 00:00:00;Task now working;3f21544;0;0;0
+Richard Stock;05.11.2018 00:00:00;Started to implement TwoCore;abadbef;9;256;0
+Richard Stock;05.11.2018 00:00:00;Chnaged Flower and changed the test.;20bb5d3;3;69;81
+Richard Stock;05.11.2018 00:00:00;Now get Data from Flower Care;9147904;9;333;0
+Richard Stock;04.11.2018 00:00:00;Added more Tests;1b32060;28;1090;0
+Richard Stock;04.11.2018 00:00:00;First tests for bluetooth;801f934;14;496;0
+PeterSigmund12;04.11.2018 00:00:00;First Version of IRDevkitWPF is finished;0e5b950;15;562;9
+PeterSigmund12;04.11.2018 00:00:00;Add Mhz14 Library for ESP32;d0dae30;10;271;0
+Peter Sigmund;04.11.2018 00:00:00;Merge branch 'PIR' into 'master';5321ff5;0;0;0
+PeterSigmund12;04.11.2018 00:00:00;Add testapp for PIR;59edae1;7;210;0
+PeterSigmund12;04.11.2018 00:00:00;Add things;132b004;3;0;0
+Richard Stock;04.11.2018 00:00:00;Readme for mqtt was old.;56e15c1;0;0;0
+Richard Stock;04.11.2018 00:00:00;Merge on PC;a8a5296;0;0;0
+Richard Stock;04.11.2018 00:00:00;Updated ReadMe for many Libaries;46ba839;18;430;131
+Richard Stock;03.11.2018 00:00:00;Merge;d5006d1;0;0;0
+Richard Stock;03.11.2018 00:00:00;Text works saving some little issues;3f0c6a1;5;72;29
+PeterSigmund12;03.11.2018 00:00:00;Add WPF Program;e9b8bc2;23;727;85
+gkoe;30.10.2018 00:00:00;ThingWithSensorAndActor and bugfixes;e90d38b;47;699;262
+gkoe;27.10.2018 00:00:00;Dht22 warnings solved;775a388;4;9;10
+Richard Stock;25.10.2018 00:00:00;Merge branch 'master' into 'Logger';6f2f1e2;0;0;0
+Richard Stock;25.10.2018 00:00:00;Merge branch 'Logger' into 'master';56f2874;0;0;0
+PeterSigmund12;24.10.2018 00:00:00;Edit testapps in IrdaModule C# Program(Send;4aafac2;6;91;7
+PeterSigmund12;23.10.2018 00:00:00;Receive IR via USB;4a4a43c;10;244;0
+gkoe;23.10.2018 00:00:00;Kleinigkeiten;64b79d9;0;0;0
+Richard Stock;23.10.2018 00:00:00;Solved Issue #10 and tested ThingWithSensorAndActor;b9e3abb;3;7;15
+PeterSigmund12;23.10.2018 00:00:00;Edit testapps;6e0760d;0;0;0
+Richard Stock;22.10.2018 00:00:00;Merge branch 'Logger' into 'master';3b2a539;0;0;0
+Richard Stock;23.10.2018 00:00:00;Fixed the issue with MqttClient and tested. Also tested #6 working now fine. Fixed also the issue #9.;19dca61;0;0;0
+Richard Stock;22.10.2018 00:00:00;Merge branch 'master' into 'Logger';1f86c65;0;0;0
+Richard Stock;22.10.2018 00:00:00;Merge branch 'Logger' into 'master';1c2fab6;0;0;0
+Richard Stock;22.10.2018 00:00:00;Fixed the issue with MqttClient and tested. Also tested #6 working now fine. Fixed also the issue #9.;cf4cbec;12;338;71
+Richard Stock;22.10.2018 00:00:00;Have some Issues with FileloggerTarget. MqttLoggerTarget should work now #6 not test.;586f941;24;317;213
+PeterSigmund12;20.10.2018 00:00:00;create and edit IrdaModule.h and IrdaModule.cpp;09958ae;15;157;291
+Richard Stock;19.10.2018 00:00:00;Changed UdpLoogerTarget and SerialLogger and started to implement FileLogge. Also cut out DHT22 from sensor to app with the name ThingWithSensorAndActor.;a1c8c50;46;283;172
+PeterSigmund12;18.10.2018 00:00:00;Create IRDevkit Library and create SendIR und ReceiveIR files;d2ed499;9;409;0
+Richard Stock;17.10.2018 00:00:00;UdpLogger working now with the new Logger System. #7 works;7c67a90;12;53;17
+Richard Stock;17.10.2018 00:00:00;Changed the Logger like Sensor;2806f24;29;362;24
+Richard Stock;15.10.2018 00:00:00;Merge problems are resolved;6a71d50;0;0;0
+Richard Stock;15.10.2018 00:00:00;Merge between PC and Laptop.;bd06d1c;2;0;2
+Richard Stock;15.10.2018 00:00:00;Changed the json for Sensor;2f1431d;11;26;26
+Richard Stock;14.10.2018 00:00:00;Logger is now ready. Issue #5 #4 is now ready to close.;4662260;11;491;12
+Peter Sigmund;14.10.2018 00:00:00;Merge branch 'MHZ19' into 'master';26f7b69;0;0;0
+PeterSigmund12;14.10.2018 00:00:00;Edit Mhz19.cpp;17b2bb5;0;0;0
+Peter Sigmund;14.10.2018 00:00:00;Merge branch 'MHZ19' into 'master';705ffa9;0;0;0
+gkoe;13.10.2018 00:00:00;codereview mqttclient;99f3a54;14;392;354
+Richard Stock;12.10.2018 00:00:00;Logger can now log over UDP also has a test. Issue #7 are solved;4d19725;21;247;17
+Richard Stock;12.10.2018 00:00:00;LoggerMqtt working with a test. Issue #6 is closed;a4050ae;11;430;3
+Richard Stock;11.10.2018 00:00:00;Merge branch 'ActorSensorThing' into 'master';4eaa255;0;0;0
+Richard Stock;11.10.2018 00:00:00;Merge branch 'master' into 'ActorSensorThing';5b31f63;0;0;0
+Richard Stock;11.10.2018 00:00:00;Merge branch 'ActorSensorThing' into 'master';05bc1c6;0;0;0
+Richard Stock;11.10.2018 00:00:00;Merge branch 'Dht22' into 'master';e3aacd2;0;0;0
+Richard Stock;11.10.2018 00:00:00;Merge branch 'master' into 'Dht22';50d46c2;0;0;0
+Richard Stock;11.10.2018 00:00:00;Merge branch 'Dht22' into 'master';df2e877;0;0;0
+PeterSigmund12;11.10.2018 00:00:00;Create Readme;c751ee1;2;67;65
+Richard Stock;10.10.2018 00:00:00;Actor Thing Sensor working also DHT humidity;57f6051;28;1545;0
+Richard Stock;09.10.2018 00:00:00;MqttClient working now fine with two tests;9f3a824;6;53;15
+PeterSigmund12;08.10.2018 00:00:00;Edit Mhz19 Library & Testapp;c67b0dd;8;132;34
+Richard Stock;08.10.2018 00:00:00;Changed the new test;981f2b1;7;29;7
+Richard Stock;08.10.2018 00:00:00;Added a new Test and changed the other one.;e56c1e4;9;193;6
+Peter Sigmund;07.10.2018 00:00:00;Merge branch 'ThingTime' into 'master';7ad7b46;0;0;0
+Richard Stock;06.10.2018 00:00:00;Merge and Readmme;77791ed;0;0;0
+Richard Stock;05.10.2018 00:00:00;Updated Readme;3b94a2d;0;0;0
+Richard Stock;05.10.2018 00:00:00;ReadMe added to Dht22.;43bb373;3;76;13
+Richard Stock;05.10.2018 00:00:00;MqttClient is ready and has a test.;2d84eda;10;249;235
+Richard Stock;04.10.2018 00:00:00;Merge branch 'master' into 'Dht22';6d986a5;0;0;0
+PeterSigmund12;04.10.2018 00:00:00;ThingTime connected with WifiManager;f0fd7f7;44;5834;800
+gkoe;04.10.2018 00:00:00;Mhz19 Demo;e0087b1;17;451;0
+Richard Stock;04.10.2018 00:00:00;Merge branch 'master' into 'MqttClient';47885b9;0;0;0
+Richard Stock;04.10.2018 00:00:00;Changed MqttClient;475d2ac;6;200;178
+gkoe;03.10.2018 00:00:00;HttpServer Doku begonnen;1840d50;12;72;141
+gkoe;03.10.2018 00:00:00;classroommonitor esp8266;488f28d;60;5318;1407
+Richard Stock;02.10.2018 00:00:00;Started to add MqttClient to the test.;3997e32;5;188;173
+gkoe;02.10.2018 00:00:00;ThingConfig clearConfigFile in clearConfig umbenannt;f5f7d65;14;812;8
+Richard Stock;01.10.2018 00:00:00;Changed MqttClient that he works with the new ThingConfig.;895d5f9;8;200;193
+Richard Stock;01.10.2018 00:00:00;Changed some things in DHT22 and added a test also startet to change MqttClient;1b4ae1d;20;702;13
+PeterSigmund12;01.10.2018 00:00:00;Update ThingTimeTest;414cfd6;5;27;7
+PeterSigmund12;01.10.2018 00:00:00;Added ThingTimeTest;e1de86d;22;1299;135
+Peter Sigmund;01.10.2018 00:00:00;Merge branch 'master' into 'ThingTime';55cc176;0;0;0
+gkoe;28.09.2018 00:00:00;Dht22 Bibliothek ├╝bernommen;325bf9d;54;2279;945
+gkoe;28.09.2018 00:00:00;WifiManager integriert;e3fa156;55;5231;1404
+gkoe;27.09.2018 00:00:00;ThingConfig neu als JSON-Objekt;2ee5e81;46;1063;596
+gkoe;27.09.2018 00:00:00;Verzeichnisstruktur ge├ñndert;b60ebc5;1585;204;163
+Richard Stock;27.09.2018 00:00:00;Merge branch 'libaries-esp' into 'master';c4aec08;0;0;0
+Richard Stock;27.09.2018 00:00:00;Added WifiManager and SoftwareSerial both have examples.;93f9a08;3;71;48
+gkoe;22.09.2018 00:00:00;Kleinigkeiten;579cde4;4;5;3
+Richard Stock;19.09.2018 00:00:00;Added some libaries.;531ec00;32;3199;0
+Richard Stock;18.09.2018 00:00:00;Added WifiStation with a test.;c512008;11;670;0
+Richard Stock;18.09.2018 00:00:00;Changed ThingConfig and also added a test.;8ec9b95;10;421;0
+Richard Stock;18.09.2018 00:00:00;Changed ThingTime and also added a test;207cd68;9;376;2
+Richard Stock;17.09.2018 00:00:00;PubSubClient;1d585e5;218;27401;0
+gkoe;10.07.2018 00:00:00;InternLedTest modified;06f6d53;2;3;2
+gkoe;27.06.2018 00:00:00;Transfer from seminar;63a6890;2002;369650;0
